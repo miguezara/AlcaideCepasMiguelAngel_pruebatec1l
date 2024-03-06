@@ -17,7 +17,7 @@ Este proyecto ofrece las siguientes funcionalidades:
 
 Para ejecutar esta aplicación, necesitarás tener instalado:
 
-- Java Development Kit (JDK) 8 o superior.
+- Java Development Kit (JDK) 17.
 - Maven para la gestión de dependencias (opcional).
 
 ## Instalación y Uso
